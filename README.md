@@ -1,2 +1,2 @@
 # gym-rat
-This is Bankist app is part of course project written by jonas. Which I completed.
+This  Bankist app project is part of course  written by jonas. Which I completed.
